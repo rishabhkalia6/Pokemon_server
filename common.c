@@ -1,6 +1,6 @@
 
-// MINI ASSIGNMENT POKEMON SEREVR PROJECT 
-// BY Rishabh Kalia, Hikmatullah Hussain Zada, Casey Kiiza 0778570
+
+// BY Rishabh Kalia
 
 // common.c
 // This file Implements the function to load Pokémon data from the CSV file.
