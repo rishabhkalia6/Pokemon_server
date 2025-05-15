@@ -1,6 +1,5 @@
 
-// MINI ASSIGNMENT POKEMON SEREVR PROJECT 
-// BY Rishabh Kalia, Hikmatullah Hussain Zada, Casey Kiiza 0778570
+// BY Rishabh Kalia
 
 
 // server.c
