@@ -1,5 +1,5 @@
-// MINI ASSIGNMENT POKEMON SEREVR PROJECT 
-// BY Rishabh Kalia, Hikmatullah Hussain Zada, Casey Kiiza 0778570
+
+// BY Rishabh Kalia
 
 // client.c
 // This file manages Client program that sends search queries to the server and handles results.
