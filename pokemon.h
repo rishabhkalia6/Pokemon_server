@@ -1,5 +1,5 @@
-// MINI ASSIGNMENT POKEMON SEREVR PROJECT 
-// BY Rishabh Kalia, Hikmatullah Hussain Zada, Casey Kiiza 0778570
+
+// BY Rishabh Kalia
 
 // This file  Defines the Pokémon data structure and declares shared functions.
 // pokemon.h
