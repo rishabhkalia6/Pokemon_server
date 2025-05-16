@@ -158,3 +158,8 @@ clean:
 	rm -f * .o server client
 ```
 This **``Makefile``** builds the project using separate object files for modularity. It compiles each source file into **``.o``** files, then links them into the **``server``** and **``client``** executables. The **``clean``** target removes all compiled files for a fresh rebuild.
+
+---
+
+## 💻 Output
+
