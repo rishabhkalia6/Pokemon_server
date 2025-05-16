@@ -163,3 +163,12 @@ This **``Makefile``** builds the project using separate object files for modular
 
 ## 💻 Output
 
+![image](https://github.com/rishabhkalia6/Pokemon_server/blob/main/Screenshot%20from%202025-05-16%2021-02-57.png?raw=true)
+
+This screenshot demonstrates a successful execution of the Pokémon Server project using TCP sockets in C.
+ - **Left Window – Server Side**
+   The server is actively running and listening for incoming connections. Once the client connects and sends a Pokémon type **``(e.g., Water, Fire)``**, the server processes the request by searching a local CSV file 
+   containing Pokémon data. It then sends back a filtered list of matching Pokémon. The output shows connection logs and confirmation that the server received and responded to the client’s query in real time.
+
+- **Right Window – Client Side**
+The client connects to the server and prompts the user to enter a Pokémon type. Upon entering a valid type, the client sends the request and receives a list of Pokémon of that type from the server. The output displays each matching Pokémon with their attributes (e.g., name, type, stats), confirming successful data exchange and socket communication.
